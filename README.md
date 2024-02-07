@@ -15,18 +15,18 @@ I'm an enthusiastic and passionate Network and Systems Administrator with extens
 
 I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.
 
-# Experience:
+# Experiences:
 <p align="center">
   <img style="padding-right:10px" src="images/AWS.jpg" width="auto" height="100"><img style="padding-left:10px" src="images/Cisco.png" width="auto" height="100"><br>
   <img style="padding-right:10px" src="images/RHL.png" width="auto" height="100"><img style="padding-left:10px" src="images/Microsoft.png" width="auto" height="100"><br>
-  To view Experience, click <a href="https://xmoalaa7.github.io/Experiences/">here</a>.
+  To view Experiences, click <a href="https://xmoalaa7.github.io/Experiences/">here</a>.
 </p>
 
 # Certifications:
 <p align="center">
   <img style="padding-right:10px" src="images/AWSSAA.png" width="auto" height="100"><img style="padding-left:10px" src="images/AWSCP.png" width="auto" height="100"><img style="padding-right:10px" src="images/CS50.jpg" width="auto" height="100"><br>
   <img style="padding-right:10px" src="images/IBM.png" width="auto" height="100"><img style="padding-left:10px" src="images/Udacity.png" width="auto" height="100"><br>
-  To view Certifications, click <a href="www.google.com/">here</a>.
+  To view Certifications, click <a href="https://xmoalaa7.github.io/Certificationss/">here</a>.
 </p>
 
 # Education:
