@@ -8,7 +8,7 @@
 
 # Summary:
 <p align="center">
-  <img style="padding-right:10px" src="images/ProfilePhoto.png" width="200" height="auto">I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.<br> I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.</span>
+  <img style="padding-right:10px" src="images/ProfilePhoto.png" width="200" height="auto">I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.<br> I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.
 </p>
 
 # Experience:
@@ -21,7 +21,8 @@ To view Experience, visit the [Experience Page](www.google.com).
 
 # Certifications:
 <p align="center">
-  <img src="images/ProfilePhoto.png" width="100" height="auto">
+  <img style="padding-right:10px" src="images/AWSSAA.png" width="auto" height="100"><img style="padding-left:10px" src="images/AWSCP.png" width="auto" height="100"><img style="padding-right:10px" src="images/CS50.jpg" width="auto" height="100"><br>
+  <img style="padding-right:10px" src="images/IBM.png" width="auto" height="100"><img style="padding-left:10px" src="images/Udacity.png" width="auto" height="100"><br>
 </p>
 
 To view Certifications, visit the [Certifications Page](www.google.com).
