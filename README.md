@@ -79,11 +79,52 @@ I have always found myself as the person who solves the technical issues facing 
 - Studied concepts related to Cybersecurity such as the types of attacks, types of security devices, and security policy.
 
 # Certifications:
-<p align="center" style="font-size:20px">AWS Solutions Architect Associate</p>
-<p align="center">
-  <img src="images/AWSSAA.png" width="auto" height="100"><br>
-  <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
-</p>
+<style>
+  * {
+    box-sizing: border-box;
+  }
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <p align="center" style="font-size:20px">AWS Solutions Architect - Associate</p>
+    <p align="center">
+      <img src="images/AWSSAA.png" width="auto" height="100"><br>
+      <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
+      <p align="center" style="font-size:20px">AWS Cloud Practitioner</p>
+      <p align="center">
+        <img src="images/AWSSAA.png" width="auto" height="100"><br>
+        <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
+  </div>
+  <div class="column">
+	<p align="center" style="font-size:20px">AWS Cloud Practitioner</p>
+    <p align="center">
+      <img src="images/AWSSAA.png" width="auto" height="100"><br>
+      <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
+      <p align="center" style="font-size:20px">AWS Cloud Practitioner</p>
+      <p align="center">
+        <img src="images/AWSSAA.png" width="auto" height="100"><br>
+        <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
+  </div>
+</div>
 
 # Education:
 
