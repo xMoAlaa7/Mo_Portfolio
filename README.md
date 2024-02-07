@@ -30,9 +30,9 @@ I have always found myself as the person who solves the technical issues facing 
 
 ## Senior Steps - IT Training Center
 ### Red Hat Linux System Administraion Training (June 2023 - August 2024) (3 Months)
-<a align="center">
+<p align="center">
   <img src="images/SeniorSteps.png" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/RHL.png" width="auto" height="100">
-</a>
+</p>
 
 - Acquired and applied concepts of Linux System Administration as:
   - OS installation, the filesystem hierarchy, and management of files, directories, users, and groups.
@@ -80,28 +80,9 @@ I have always found myself as the person who solves the technical issues facing 
 
 # Certifications:
 ## AWS Solutions Architect Associate
-<div class="split left">
-  <div class="centered">
-    <img src="images/AWSSAA.png">
-    <h2>Jane Flex</h2>
-    <p>Some text.</p>
-  </div>
-</div>
-
-<div class="split right">
-  <div class="centered">
-    <img src="images/AWSCP.png">
-    <h2>John Doe</h2>
-    <p>Some text here too.</p>
-  </div>
-</div>
-
-
 <p align="center">
-  <img src="images/AWSSAA.png" width="auto" height="100">
+  <img src="images/AWSSAA.png" width="auto" height="100"><a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
 </p>
-
-To verify, click [here](https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url).
 
 # Education:
 
