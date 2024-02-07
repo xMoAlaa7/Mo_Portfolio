@@ -79,7 +79,8 @@ I have always found myself as the person who solves the technical issues facing 
 - Studied concepts related to Cybersecurity such as the types of attacks, types of security devices, and security policy.
 
 # Certifications:
-<body>
+
+<html>
 <style>
   * {
     box-sizing: border-box;
@@ -103,7 +104,7 @@ I have always found myself as the person who solves the technical issues facing 
   }
 }
 </style>
-
+<body>
 <div class="row">
   <div class="column">
     <p align="center" style="font-size:20px">AWS Solutions Architect - Associate</p>
@@ -112,21 +113,22 @@ I have always found myself as the person who solves the technical issues facing 
       <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
       <p align="center" style="font-size:20px">CS50's Introduction to Python Programming</p>
       <p align="center">
-        <img src="images/CS50.png" width="auto" height="100"><br>
+        <img src="images/CS50.jpg" width="auto" height="100"><br>
         <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
   </div>
   <div class="column">
 	<p align="center" style="font-size:20px">AWS Cloud Practitioner</p>
     <p align="center">
       <img src="images/AWSCP.png" width="auto" height="100"><br>
-      <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
+      <a href="(https://www.credly.com/badges/c23d7feb-f208-48c9-bfaf-b57d3e78f744/public_url)">Verify</a>
       <p align="center" style="font-size:20px">IBM Machine Learning Specialist - Associate</p>
       <p align="center">
         <img src="images/IBM.png" width="auto" height="100"><br>
-        <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
+        <a href="(https://www.credly.com/badges/5b3f28a8-0090-4bef-82fe-25f304d3eeb2/public_url)">Verify</a>
   </div>
 </div>
 </body>
+</html>
 
 # Education:
 
