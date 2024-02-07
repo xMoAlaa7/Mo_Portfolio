@@ -20,7 +20,7 @@ I have always found myself as the person who solves the technical issues facing 
 ## alx_africa
 ### AWS Cloud Computing Program (May 2023 - Feb 2024) (4 Months Soft Skills & 6 Months Program)
 <p align="center">
-  <img src="images/alx.jpeg" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/AWS.jpg" width="auto" height="100">
+  <img src="images/alx.jpeg" width="auto" height="100"><img src="images/AWS.jpg" width="auto" height="100">
 </p>
 
 - Worked on improving soft skills via attending alx hubs and interacting with fellow peers to complete weekly milestones.
@@ -90,7 +90,6 @@ I have always found myself as the person who solves the technical issues facing 
   Bachelor's degree with honors in Electronics and Communications Engineering
 <p>
 
-### 
 **Cumulative GPA:** 3.76
 
 **Graduation Project:** Excellent
