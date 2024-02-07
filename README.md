@@ -79,8 +79,8 @@ I have always found myself as the person who solves the technical issues facing 
 - Studied concepts related to Cybersecurity such as the types of attacks, types of security devices, and security policy.
 
 # Certifications:
+<p align="center" style="font-size:20px">AWS Solutions Architect Associate</p>
 <p align="center">
-  <p style="font-size:20px">AWS Solutions Architect Associate</p>
   <img src="images/AWSSAA.png" width="auto" height="100"><br>
   <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
 </p>
@@ -90,8 +90,8 @@ I have always found myself as the person who solves the technical issues facing 
 ## Higher Technological Institute of Engineering - 10th of Ramadan City
 <p align="center">
   <img src="images/HTI.jpeg" width="auto" height="150">
-  <p style="font-size:20px"><b>Bachelor's degree with honors in Electronics and Communications Engineering</p>
 </p>
+<p align="center" style="font-size:20px"><b>Bachelor's degree with honors in Electronics and Communications Engineering</p>
 
 **Cumulative GPA:** 3.76
 
