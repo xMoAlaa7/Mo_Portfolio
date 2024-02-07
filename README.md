@@ -79,6 +79,29 @@ I have always found myself as the person who solves the technical issues facing 
 - Studied concepts related to Cybersecurity such as the types of attacks, types of security devices, and security policy.
 
 # Certifications:
+## AWS Solutions Architect Associate
+<div class="split left">
+  <div class="centered">
+    <img src="images/AWSSAA.png">
+    <h2>Jane Flex</h2>
+    <p>Some text.</p>
+  </div>
+</div>
+
+<div class="split right">
+  <div class="centered">
+    <img src="images/AWSCP.png">
+    <h2>John Doe</h2>
+    <p>Some text here too.</p>
+  </div>
+</div>
+
+
+<p align="center">
+  <img src="images/AWSSAA.png" width="auto" height="100">
+</p>
+
+To verify, click [here](https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url).
 
 # Education:
 
@@ -89,12 +112,11 @@ I have always found myself as the person who solves the technical issues facing 
 
 <p style="font-size:20px">
   Bachelor's degree with honors in Electronics and Communications Engineering
-<p>
+</p>
 
 **Cumulative GPA:** 3.76
 
 **Graduation Project:** Excellent
-
 
 # Projects:
 
