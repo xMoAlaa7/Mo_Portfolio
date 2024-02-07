@@ -86,9 +86,11 @@ I have always found myself as the person who solves the technical issues facing 
 <p align="center">
   <img src="images/HTI.jpeg" width="auto" height="150">
 </p>
+
 <p style="font-size:20px">
   Bachelor's degree with honors in Electronics and Communications Engineering
 <p>
+
 
 **Cumulative GPA:** 3.76
 
