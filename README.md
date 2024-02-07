@@ -25,8 +25,8 @@ To view my Resume, click [here](https://github.com/xMoAlaa7/Mo_Portfolio/blob/ma
 <p align="center">
   <img src="images/HTI.jpeg" width="auto" height="150">
 </p>
-<p align="center" style="font-size:20px">
-  Bachelor's degree with honors in Electronics and Communications Engineering
+<p align="center" style="font-size:20px"><b>
+  Bachelor's degree with <b style="color:red">Honors</b> in Electronics and Communications Engineering</b>
 </p>
 
 **Cumulative GPA:** 3.76
