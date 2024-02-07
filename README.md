@@ -6,9 +6,11 @@
 </font>
 </p>
 
-<font size="4">
-  This simple portfolio serves as a preview of some of the projects I've done throughout my learning journey.
-</font>
+# Summary:   
+<div style="clear: left;">
+<p style="float: left;"><img src="images/ProfilePhoto.png" width="200" height="auto" border="1px"></p>
+    <p>I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.<br>I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.</p></div>
+
 
 # Projects:
 
