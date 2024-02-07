@@ -20,7 +20,7 @@ I have always found myself as the person who solves the technical issues facing 
 ## alx_africa
 ### AWS Cloud Computing Program (May 2023 - Feb 2024) (4 Months Soft Skills & 6 Months Program)
 <p align="center">
-  <img src="images/alx.jpeg" width="auto" height="100"><img src="images/AWS.jpg" width="auto" height="100">
+  <img src="images/alx.jpeg" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/AWS.jpg" width="auto" height="100">
 </p>
 
 - Worked on improving soft skills via attending alx hubs and interacting with fellow peers to complete weekly milestones.
@@ -30,9 +30,9 @@ I have always found myself as the person who solves the technical issues facing 
 
 ## Senior Steps - IT Training Center
 ### Red Hat Linux System Administraion Training (June 2023 - August 2024) (3 Months)
-<p align="center">
+<a align="center">
   <img src="images/SeniorSteps.png" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/RHL.png" width="auto" height="100">
-</p>
+</a>
 
 - Acquired and applied concepts of Linux System Administration as:
   - OS installation, the filesystem hierarchy, and management of files, directories, users, and groups.
