@@ -26,7 +26,7 @@ I have always found myself as the person who solves the technical issues facing 
 <p align="center">
   <img style="padding-right:10px" src="images/AWSSAA.png" width="auto" height="100"><img style="padding-left:10px" src="images/AWSCP.png" width="auto" height="100"><img style="padding-right:10px" src="images/CS50.jpg" width="auto" height="100"><br>
   <img style="padding-right:10px" src="images/IBM.png" width="auto" height="100"><img style="padding-left:10px" src="images/Udacity.png" width="auto" height="100"><br>
-  To view Certifications, click <a href="https://xmoalaa7.github.io/Certificationss/">here</a>.
+  To view Certifications, click <a href="https://xmoalaa7.github.io/Certifications/">here</a>.
 </p>
 
 # Education:
