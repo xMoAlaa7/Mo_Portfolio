@@ -1,12 +1,12 @@
 <p style="text-align: center;">
 <font size="6">
 <b>
-  Welcome to Mohamed Alaa's Projects' Portfolio!
+  Welcome to Mohamed Alaa's Portfolio!
 </b>
 </font>
 </p>
 
-# Summary:
+# About Me:
 <p align="center">
   <img src="images/ProfilePhoto.png" width="200" height="auto">
 </p>
@@ -14,6 +14,10 @@
 I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.
 
 I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.
+
+# Resume:
+
+To view my Resume, click [here](https://github.com/xMoAlaa7/Mo_Portfolio/blob/main/downloads/CV-Mohamed%20Alaa%20Eldeen.pdf)
 
 # Experiences:
 <p align="center">
