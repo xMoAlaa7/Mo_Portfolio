@@ -79,6 +79,7 @@ I have always found myself as the person who solves the technical issues facing 
 - Studied concepts related to Cybersecurity such as the types of attacks, types of security devices, and security policy.
 
 # Certifications:
+<body>
 <style>
   * {
     box-sizing: border-box;
@@ -109,22 +110,23 @@ I have always found myself as the person who solves the technical issues facing 
     <p align="center">
       <img src="images/AWSSAA.png" width="auto" height="100"><br>
       <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
-      <p align="center" style="font-size:20px">AWS Cloud Practitioner</p>
+      <p align="center" style="font-size:20px">CS50's Introduction to Python Programming</p>
       <p align="center">
-        <img src="images/AWSSAA.png" width="auto" height="100"><br>
+        <img src="images/CS50.png" width="auto" height="100"><br>
         <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
   </div>
   <div class="column">
 	<p align="center" style="font-size:20px">AWS Cloud Practitioner</p>
     <p align="center">
-      <img src="images/AWSSAA.png" width="auto" height="100"><br>
+      <img src="images/AWSCP.png" width="auto" height="100"><br>
       <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
-      <p align="center" style="font-size:20px">AWS Cloud Practitioner</p>
+      <p align="center" style="font-size:20px">IBM Machine Learning Specialist - Associate</p>
       <p align="center">
-        <img src="images/AWSSAA.png" width="auto" height="100"><br>
+        <img src="images/IBM.png" width="auto" height="100"><br>
         <a href="(https://www.credly.com/badges/a9ff5575-33a2-43a9-8174-b30d69d480a8/public_url)">Verify</a>
   </div>
 </div>
+</body>
 
 # Education:
 
