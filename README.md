@@ -13,7 +13,7 @@
 
 I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.
 
-I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.
+I have always found myself as the person who solves any technical issues facing my family and friends whilst they're dealing with computers and networks since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.
 
 # Resume:
 
@@ -41,9 +41,9 @@ To view my Resume, click [here](https://github.com/xMoAlaa7/Mo_Portfolio/blob/ma
 </p>
 
 - Worked on improving soft skills via attending alx hubs and interacting with fellow peers to complete weekly milestones.
-- Completed the AWS Academy Cloud Foundations course provided by AWS and alx and learnt about Billing, Security, Network, Compute, Storage ,and Database service categories, AWS CAF, and AWS WellArchitected Framework.
+- Completed the AWS Academy Cloud Foundations course provided by alx in partnership with AWS and learnt about Billing & Cost Management, Identity & Access Management, Networking and Content Delivery, Compute, Storage, Database, and Management & Governance service categories, AWS CAF, and how to implement these services according to the AWS Well Architected Framework.
 - Applied knowledge learnt in the AWS Academy Cloud Foundations course in lab environments provided during training.
-- Currently studying the AWS Academy Cloud Architecting course provided by AWS and alx.
+- Completed the AWS Academy Solutions Architecting course provided by alx in partnership with AWS and expanded my knowledge on the previously mentioned service categories.
 
 ## Senior Steps - IT Training Center
 ### Red Hat Linux System Administraion Training (June 2023 - August 2024) (3 Months)
