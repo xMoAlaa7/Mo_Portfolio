@@ -37,7 +37,6 @@ To view Certifications, visit the [Certifications Page](www.google.com).
 <p align="center">
   <img src="images/HTI.jpeg" width="auto" height="150">
 </p>
-<p align="center" style="font-size:20px"><b>Bachelor's degree with honors in Electronics and Communications Engineering</p>
 
 **Cumulative GPA:** 3.76
 
