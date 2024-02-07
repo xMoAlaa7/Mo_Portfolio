@@ -19,16 +19,15 @@ I have always found myself as the person who solves the technical issues facing 
 <p align="center">
   <img style="padding-right:10px" src="images/AWS.jpg" width="auto" height="100"><img style="padding-left:10px" src="images/Cisco.png" width="auto" height="100"><br>
   <img style="padding-right:10px" src="images/RHL.png" width="auto" height="100"><img style="padding-left:10px" src="images/Microsoft.png" width="auto" height="100"><br>
-  To view Experience, visit the <a href="www.google.com/">Experience Page</a>
+  To view Experience, click <a href="www.google.com/">here</a>
 </p>
 
 # Certifications:
 <p align="center">
   <img style="padding-right:10px" src="images/AWSSAA.png" width="auto" height="100"><img style="padding-left:10px" src="images/AWSCP.png" width="auto" height="100"><img style="padding-right:10px" src="images/CS50.jpg" width="auto" height="100"><br>
   <img style="padding-right:10px" src="images/IBM.png" width="auto" height="100"><img style="padding-left:10px" src="images/Udacity.png" width="auto" height="100"><br>
+  To view Certifications, click <a href="www.google.com/">here</a>
 </p>
-
-To view Certifications, visit the [Certifications Page](www.google.com).
 
 # Education:
 
