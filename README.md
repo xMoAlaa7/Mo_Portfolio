@@ -91,10 +91,10 @@ I have always found myself as the person who solves the technical issues facing 
   Bachelor's degree with honors in Electronics and Communications Engineering
 <p>
 
-
 **Cumulative GPA:** 3.76
 
 **Graduation Project:** Excellent
+
 
 # Projects:
 
