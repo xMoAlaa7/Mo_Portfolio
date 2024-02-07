@@ -13,7 +13,7 @@
 
 I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.
 
-I have always found myself as the person who solves any technical issues facing my family and friends whilst they're dealing with computers and networks since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.
+I have always found myself as the person who solves any technical issues facing my family and friends whilst they're dealing with computers and networks since I was a child, so naturally, I decided to pursue a career at something that I believe I'm a natural at.
 
 # Resume:
 
