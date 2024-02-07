@@ -7,25 +7,14 @@
 </p>
 
 # Summary:
-<html>
-    <style>
-    .container {
-        display: flex;
-        align-items: center;
-        justify-content: left;
-    }
-    </style>
-    <body>
-        <div class="container">
-        <div class="image">
-            <img src="images/ProfilePhoto.png" width="200" height="auto">
-        </div>
-        <div class="text">
-            <p>I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.<br>I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.</p>
-        </div>
-        </div>
-    </body>
-    </html>
+<p align="center">
+  <img src="images/ProfilePhoto.png" width="200" height="auto">
+</p>
+
+
+I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.
+
+I have always found myself as the person who solves the technical issues facing my family and friends when they're dealing with computers and networks ever since I was a child , so naturally, I decided to pursue a career at something that I believe I'm a natural at.</span>
 
 
 # Projects:
