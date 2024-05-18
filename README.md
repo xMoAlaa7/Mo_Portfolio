@@ -13,7 +13,7 @@
 
 I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.
 
-I have always found myself as the person who solves any technical issues facing my family and friends whilst they're dealing with computers and networks since I was a child, so naturally, I decided to pursue a career at something that I believe I'm a natural at.
+I have always found myself as the person who solves any technical issues facing my family and friends whilst they're dealing with computers and networks, so naturally, I decided to pursue a career at something that I believe I'm a natural at.
 
 # Resume:
 
@@ -33,7 +33,21 @@ To view my Resume, click [here](https://github.com/xMoAlaa7/Mo_Portfolio/blob/ma
 
 **Graduation Project:** Excellent
 
-# Experiences
+# Work Experience
+## Go Partners
+### IT Help Desk Support (March 2024 - Present)
+<p align="center">
+  <img src="images/GoPartners.png" width="auto" height="150">
+</p>
+
+Key Responsibilities:
+- Management, maintenance, and troubleshooting of the underlying infrastructure including servers (VoIP and Windows Servers), clients, network connectivity devices (routers, switches, gateways, access points), and - firewalls.
+- Providing technical support for employees and ensuring their systems are functioning properly by troubleshooting software and hardware issues.
+- Onboarding and setting up workstations with the required software.
+- Maintaining compliance and security by continually monitoring and maintaining activity through Active Directory GPOs and Firewall policies and configurations.
+- Performing network auditing and documentation to ensure ease of network management and troubleshooting, high network availability, and compliance with security policies and procedures.
+
+# Training Experience
 ## alx_africa
 ### AWS Cloud Computing Program (May 2023 - Feb 2024) (4 Months Soft Skills & 6 Months Program)
 <p align="center">
