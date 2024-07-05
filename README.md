@@ -111,6 +111,16 @@ Key Responsibilities:
 
 # Projects:
 
+## Automated Network using Ansible
+<p align="center">
+  <img src="images/Automated Network using Ansible.png" width="480" height="auto">
+</p>
+
+### Project Description:
+The objective of this project is to be able to push, remove, and view configurations safely on network devices by executing Ansible Playbooks via an Ansible management node.
+
+For more, click [here](https://xmoalaa7.github.io/Automated-Network-using-Ansible/).
+
 ## SD-WAN Device Initial Configuration Generator:
 <p align="center">
   <img src="images/SD-WAN Device Initial Configuration Generator.png" width="480" height="auto">
@@ -130,6 +140,7 @@ For more, click [here](https://xmoalaa7.github.io/SD-WAN-Initial-Configuration-G
 
 ### Project Description:
 A prototype infrastructure consisting of two sites (Data Center and Service) that are connected over the actual Internet via Cisco’s SD-WAN Architecture.
+
 The infrastructure incorporates Cisco’s Three Layer Hierarchical Model over its private network on both sites and the Datacenter site includes a Windows Server that provides Services and Administration. Each site includes a FortiGate Firewall and has its WAN Edge Router equipped with an IPS.
 
 For more, click [here](https://xmoalaa7.github.io/SD-WAN-Prototype-Network/).
