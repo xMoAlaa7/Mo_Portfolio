@@ -119,7 +119,7 @@ Key Responsibilities:
 ### Project Description:
 The objective of this project is to be able to push, remove, and view configurations safely on network devices by executing Ansible Playbooks via an Ansible management node.
 
-For more, click [here](https://xmoalaa7.github.io/Automated-Network-using-Ansible/).
+For more, click [here](https://github.com/xMoAlaa7/Automated-Network-using-Ansible/blob/main/README.md).
 
 ## SD-WAN Device Initial Configuration Generator:
 <p align="center">
