@@ -36,7 +36,7 @@ To view my Resume, click [here](https://github.com/xMoAlaa7/Mo_Portfolio/blob/ma
 # Work Experience:
 ## Ulemt
 <p align="center">
-  <img src="images/Ulemt.jpg" width="auto" height="150">
+  <img src="images/Ulemt.jpeg" width="auto" height="150">
 </p>
 
 ### Tier 1 Technical Support (June 2024 - Present) (Full-Time)
