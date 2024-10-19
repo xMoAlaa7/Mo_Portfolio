@@ -33,19 +33,37 @@ To view my Resume, click [here](https://github.com/xMoAlaa7/Mo_Portfolio/blob/ma
 
 **Graduation Project:** Excellent
 
-# Work Experience
+# Work Experience:
+## Ulemt
+<p align="center">
+  <img src="images/Ulemt.jpg" width="auto" height="150">
+</p>
+
+### Tier 1 Technical Support (June 2024 - Present) (Full-Time)
+- Conducting research and implementing software and system solutions based on defined requirements.
+- Creation of PRTG sensors and managing systems via resolution of errors and warnings resulting from said sensors.
+- Administering and overseeing backups on Veeam backup server.
+- Provide technical support for customers by resolving tickets on Jira and documenting resolution steps on Confluence for later use.
+- Overseeing user access by updating access matrices for tenants within asset management systems.
+- Ensuring consistency between deployed systems on vSphere and their corresponding assets on Asset Management for Jira.
+
 ## Go Partners
-### IT Help Desk Support (March 2024 - Present)
 <p align="center">
   <img src="images/GoPartners.png" width="auto" height="150">
 </p>
 
+### Systems Administrator (June 2024 - Present) (Part-Time)
+- Here’s the text with bullet points removed and paragraphs kept separate:
+- Research and deployment of software and system solutions following requirements.
+- Provide training for IT and Sales teams for freshly established systems and software.
+- Applying, developing, and deploying automations for systems and network devices.
+- Maintaining compliance and security by continually monitoring and maintaining activity through Active Directory GPOs and Firewall policies and configurations.
+
+### IT Help Desk Support (March 2024 - June 2024) (Full-Time)
 Key Responsibilities:
-- Management, maintenance, and troubleshooting of the underlying infrastructure including servers (VoIP and Windows Servers), clients, network connectivity devices (routers, switches, gateways, access points), and - firewalls.
+- Management, maintenance, and troubleshooting of the underlying infrastructure including servers (VoIP and Windows Servers), clients, network connectivity devices (routers, switches, gateways, access points), and firewalls.
 - Providing technical support for employees and ensuring their systems are functioning properly by troubleshooting software and hardware issues.
 - Onboarding and setting up workstations with the required software.
-- Maintaining compliance and security by continually monitoring and maintaining activity through Active Directory GPOs and Firewall policies and configurations.
-- Performing network auditing and documentation to ensure ease of network management and troubleshooting, high network availability, and compliance with security policies and procedures.
 
 # Training Experience
 ## alx_africa
