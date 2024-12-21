@@ -128,6 +128,15 @@ Key Responsibilities:
 - Studied concepts related to Cybersecurity such as the types of attacks, types of security devices, and security policy.
 
 # Projects:
+## Mails Access Matrix Database
+<p align="center">
+  <img src="images/Mails Access Matrix ER_Diagram.png" width="480" height="auto">
+</p>
+
+### Project Description:
+The objective of this project is to have a centralized database for management of mail servers domains, users, groups, and group access.
+
+For more, click [here](https://github.com/xMoAlaa7/Mails_Access_Matrix).
 
 ## Automated Network using Ansible
 <p align="center">
