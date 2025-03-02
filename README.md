@@ -8,7 +8,7 @@
 
 # About Me:
 <p align="center">
-  <img src="images/ProfilePhoto.png" width="200" height="auto">
+  <img src="images/ProfilePhoto.jpeg" width="200" height="auto">
 </p>
 
 I'm an enthusiastic and passionate Network and Systems Administrator with extensive knowledge in AWS Cloud Computing. I have a strong academic background in communications, electronics, and computer engineering.
